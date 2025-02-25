@@ -1,0 +1,53 @@
+season,team1,team2,date,match_number,venue,city,toss_winner,toss_decision,player_of_match,umpire1,umpire2,reserve_umpire,match_referee,winner,winner_runs,winner_wickets,match_type
+2024,CA,USA,6/1/2024,1,Grand Prairie Stadium,Dallas,USA,field,Aaron Jones,RK Illingworth,Sharfuddoula,L Rusere,RB Richardson,USA,,7,Group
+2024,PNG,WI,6/2/2024,2,Providence Stadium,Providence,WI,field,RL Chase,AT Holdstock,Rashid Riaz,HDPK Dharmasena,AJ Pycroft,WI ,,5,Group
+2024,Oman,Namibia,6/2/2024,3,Kensington Oval,Bridgetown,Namibia,field,D Wiese,J Madanagopal,JS Wilson,Asif Yaqoob,RS Madugalle,,,,Group
+2024,SL,SA,6/3/2024,4,Nassau County International Cricket Stadium,New York,SL,bat,A Nortje,CM Brown,RA Kettleborough,AG Wharf,JJ Crowe,SA,,6,Group
+2024,AFG,Uganda,6/3/2024,5,Providence Stadium,Providence,Uganda,field,Fazalhaq Farooqi,Ahsan Raza,HDPK Dharmasena,Rashid Riaz,AJ Pycroft,AFG,125,,Group
+2024,SCL,ENG,6/4/2024,6,Kensington Oval,Bridgetown,SCL,bat,,Asif Yaqoob,Nitin Menon,J Madanagopal,RS Madugalle,No Result,,,Group
+2024,Nepal,NED,6/4/2024,7,Grand Prairie Stadium,Dallas,NED,field,TJG Pringle,L Rusere,RJ Tucker,RK Illingworth,RB Richardson,NED,,6,Group
+2024,IL,IND ,6/5/2024,8,Nassau County International Cricket Stadium,New York,IND ,field,JJ Bumrah,AG Wharf,CB Gaffaney,CM Brown,DC Boon,IND ,,8,Group
+2024,PNG,Uganda,6/5/2024,9,Providence Stadium,Providence,Uganda,field,Riazat Ali Shah,AT Holdstock,Rashid Riaz,HDPK Dharmasena,J Srinath,Uganda,,3,Group
+2024,AUS,Oman,6/5/2024,10,Kensington Oval,Bridgetown,Oman,field,MP Stoinis,Asif Yaqoob,JS Wilson,Nitin Menon,RS Madugalle,AUS ,39,,Group
+2024,PNG,USA,6/6/2024,11,Grand Prairie Stadium,Dallas,USA,field,MD Patel,A Paleker,MA Gough,RJ Tucker,JJ Crowe,,,,Group
+2024,Namibia,SCL,6/6/2024,12,Kensington Oval,Bridgetown,Namibia,bat,MA Leask,J Madanagopal,Nitin Menon,JS Wilson,AJ Pycroft,SCL,,5,Group
+2024,CA,IL,6/7/2024,13,Nassau County International Cricket Stadium,New York,IL,field,NR Kirton,RA Kettleborough,SJ Nogajski,CB Gaffaney,RB Richardson,CA ,12,,Group
+2024,AFG,NZ,6/7/2024,14,Providence Stadium,Providence,NZ,field,Rahmanullah Gurbaz,Ahsan Raza,HDPK Dharmasena,AT Holdstock,J Srinath,AFG,84,,Group
+2024,SL,BAN,6/7/2024,15,Grand Prairie Stadium,Dallas,BAN,field,Rishad Hossain,MA Gough,PR Reiffel,RJ Tucker,JJ Crowe,BAN,,2,Group
+2024,NED,SA,6/8/2024,16,Nassau County International Cricket Stadium,New York,SA,field,DA Miller,CB Gaffaney,Sharfuddoula,SJ Nogajski,DC Boon,SA,,4,Group
+2024,AUS,ENG,6/8/2024,17,Kensington Oval,Bridgetown,ENG,field,A Zampa,JS Wilson,Nitin Menon,J Madanagopal,AJ Pycroft,AUS ,36,,Group
+2024,WI,Uganda,6/8/2024,18,Providence Stadium,Providence,WI,bat,AJ Hosein,HDPK Dharmasena,Rashid Riaz,Ahsan Raza,J Srinath,WI,134,,Group
+2024,India,PAK ,6/9/2024,19,Nassau County International Cricket Stadium,New York,PAK ,field,JJ Bumrah,RK Illingworth,RJ Tucker,Sharfuddoula,DC Boon,IND ,6,,Group
+2024,Oman,SCL,6/9/2024,20,Sir Vivian Richards Stadium,North Sound,Oman,bat,BJ McMullen,A Paleker,CM Brown,AG Wharf,RB Richardson,SCL,,7,Group
+2024,SA,BAN,6/10/2024,21,Nassau County International Cricket Stadium,New York,SA,bat,H Klaasen,RK Illingworth,SJ Nogajski,PR Reiffel,RS Madugalle,SA,4,,Group
+2024,CA,PAK ,6/11/2024,22,Nassau County International Cricket Stadium,New York,PAK ,field,Mohammad Amir,AT Holdstock,HDPK Dharmasena,PR Reiffel,RS Madugalle,PAK ,,7,Group
+2024,Namibia,AUS ,6/11/2024,24,Sir Vivian Richards Stadium,North Sound,AUS ,field,A Zampa,Nitin Menon,Rashid Riaz,A Paleker,J Srinath,AUS ,,9,Group
+2024,USA,IND ,6/12/2024,25,Nassau County International Cricket Stadium,New York,IND ,field,Arshdeep Singh,PR Reiffel,SJ Nogajski,AT Holdstock,RS Madugalle,IND ,,7,Group
+2024,WI,NZ,6/12/2024,26,Brian Lara Stadium,Tarouba,NZ,field,SE Rutherford,Ahsan Raza,AG Wharf,MA Gough,DC Boon,WI ,13,,Group
+2024,BAN ,NED,6/13/2024,27,Arnos Vale Ground,Kingstown,NED,field,Shakib Al Hasan,CM Brown,J Madanagopal,JS Wilson,RB Richardson,BAN,25,,Group
+2024,Oman,ENG,6/13/2024,28,Sir Vivian Richards Stadium,North Sound,ENG,field,AU Rashid,Asif Yaqoob,L Rusere,Rashid Riaz,AJ Pycroft,ENG,,8,Group
+2024,PNG,AFG,6/13/2024,29,Brian Lara Stadium,Tarouba,AFG,field,Fazalhaq Farooqi,AG Wharf,MA Gough,Ahsan Raza,DC Boon,AFG,,7,Group
+2024,SA,Nepal,6/14/2024,31,Arnos Vale Ground,Kingstown,Nepal,field,T Shamsi,J Madanagopal,JS Wilson,SJ Nogajski,RB Richardson,SA ,1,,Group
+2024,Uganda,NZ,6/14/2024,32,Brian Lara Stadium,Tarouba,NZ,field,TG Southee,PR Reiffel,RK Illingworth,Ahsan Raza,DC Boon,NZ ,,9,Group
+2024,ENG,Namibia,6/15/2024,34,Sir Vivian Richards Stadium,North Sound,Namibia,field,HC Brook,AT Holdstock,L Rusere,Nitin Menon,RS Madugalle,ENG,41,,Group
+2024,SCL,AUS ,6/15/2024,35,Daren Sammy National Cricket Stadium,Gros Islet,AUS ,field,MP Stoinis,Asif Yaqoob,MA Gough,A Paleker,JJ Crowe,AUS ,,5,Group
+2024,IL,PAK ,6/16/2024,36,Central Broward Regional Park Stadium Turf Ground,Lauderhill,PAK ,field,Shaheen Shah Afridi,CB Gaffaney,RJ Tucker,RA Kettleborough,J Srinath,PAK ,,3,Group
+2024,,Nepal,6/16/2024,37,Arnos Vale Ground,Kingstown,Nepal,field,Tanzim Hasan Sakib,Ahsan Raza,SJ Nogajski,HDPK Dharmasena,RB Richardson,BAN ,21,,Group
+2024,SL,NED,6/16/2024,38,Daren Sammy National Cricket Stadium,Gros Islet,NED,field,KIC Asalanka,AG Wharf,A Paleker,Asif Yaqoob,JJ Crowe,SL,83,,Group
+2024,PNG,NZ,6/17/2024,39,Brian Lara Stadium,Tarouba,NZ,field,LH Ferguson,L Rusere,PR Reiffel,RK Illingworth,DC Boon,NZ,,7,Group
+2024,WI,AFG,6/17/2024,40,Daren Sammy National Cricket Stadium,Gros Islet,AFG,field,N Pooran,A Paleker,CM Brown,MA Gough,JJ Crowe,WI ,104,,Group
+2024,SA,UA,6/19/2024,41,Sir Vivian Richards Stadium,North Sound,USA,field,Q de Kock,CB Gaffaney,RA Kettleborough,L Rusere,RS Madugalle,SA ,18,,Group
+2024,WI,ENG,6/19/2024,42,Daren Sammy National Cricket Stadium,Gros Islet,ENG,field,PD Salt,Ahsan Raza,Nitin Menon,CM Brown,JJ Crowe,ENG,,8,Group
+2024,IND ,AFG,6/20/2024,43,Kensington Oval,Bridgetown,IND ,bat,SA Yadav,PR Reiffel,RJ Tucker,AG Wharf,DC Boon,IND ,47,,Group
+2024,BAN ,AUS ,6/20/2024,44,Sir Vivian Richards Stadium,North Sound,AUS ,field,PJ Cummins,MA Gough,RK Illingworth,AT Holdstock,RB Richardson,AUS ,28,,Group
+2024,SA,ENG,6/21/2024,45,Daren Sammy National Cricket Stadium,Gros Islet,ENG,field,Q de Kock,CM Brown,Sharfuddoula,CB Gaffaney,JJ Crowe,SA ,7,,Group
+2024,USA,WI,6/21/2024,46,Kensington Oval,Bridgetown,WI,field,RL Chase,A Paleker,PR Reiffel,AG Wharf,DC Boon,WI ,,9,Group
+2024,IND,,6/22/2024,47,Sir Vivian Richards Stadium,North Sound,BAN,field,HH Pandya,AT Holdstock,MA Gough,RA Kettleborough,RS Madugalle,India,50,,Group
+2024,AFG,AUS ,6/22/2024,48,Arnos Vale Ground,Kingstown,AUS ,field,Gulbadin Naib,Ahsan Raza,HDPK Dharmasena,Nitin Menon,JJ Crowe,AFG,21,,Group
+2024,USA,ENG,6/23/2024,49,Kensington Oval,Bridgetown,ENG,field,AU Rashid,CB Gaffaney,JS Wilson,A Paleker,DC Boon,ENG,,10,Group
+2024,WI,SA,6/23/2024,50,Sir Vivian Richards Stadium,North Sound,SA,field,T Shamsi,AG Wharf,RJ Tucker,Sharfuddoula,RS Madugalle,SA ,,3,Group
+2024,IND,AUS ,6/24/2024,51,Daren Sammy National Cricket Stadium,Gros Islet,AUS ,field,RG Sharma,RK Illingworth,RA Kettleborough,HDPK Dharmasena,JJ Crowe,India,24,,Group
+2024,AFG,BAN,6/24/2024,52,Arnos Vale Ground,Kingstown,AFG,bat,Naveen-ul-Haq,L Rusere,Nitin Menon,Ahsan Raza,RB Richardson,AFG,8,,Group
+2024,AFG ,SA,6/26/2024,53,Brian Lara Stadium,Tarouba,AFG,bat,M Jansen,Nitin Menon,RK Illingworth,Ahsan Raza,RB Richardson,SA ,,9,Semi Final
+2024,IND,ENG ,6/27/2024,54,Providence Stadium,Providence,ENG,field,AR Patel,CB Gaffaney,RJ Tucker,PR Reiffel,JJ Crowe,IND ,68,,Semi Final
+2024,IND,SA,6/29/2024,55,Kensington Oval,Bridgetown,IND ,bat,V Kohli,CB Gaffaney,RK Illingworth,RJ Tucker,RB Richardson,IND ,7,,Final
